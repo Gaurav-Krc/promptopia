@@ -1,4 +1,4 @@
-# 🤖 Next.js AI Prompt Sharing App
+# 🤖 Promptopia
 
 Welcome to my Next.js application! This project showcases the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system using MongoDB and NextAuth authentication.
 
@@ -31,12 +31,7 @@ Welcome to my Next.js application! This project showcases the key features of Ne
 …and much more, including a focus on code architecture and reusability.
 
 ---
+Check out the website: [Promptopia App](https://promptopia-hsokfbfky-gaurav-kumar-chaurasiyas-projects.vercel.app/)
 
-Thank you for checking out my project!
+😊Thank you for checking out my project!
 
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
