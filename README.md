@@ -1,33 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🤖 Next.js AI Prompt Sharing App
 
-## Getting Started
+Welcome to my Next.js application! This project showcases the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system using MongoDB and NextAuth authentication.
 
-First, run the development server:
+## ⚙️ Tech Stack
+- **Next.js**
+- **MongoDB**
+- **NextAuth**
+- **TailwindCSS**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔋 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 **Modern Design with Glassmorphism Style**: Enjoy a sleek, contemporary design with the trendy glassmorphism style.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+👉 **Discover and Share AI Prompts**: Find AI prompts shared by the community and create your own to share.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+👉 **Edit and Delete Prompts**: Easily edit or delete your prompts anytime.
 
-## Learn More
+👉 **Profile Page**: Each user has a dedicated profile page showcasing all their prompts.
 
-To learn more about Next.js, take a look at the following resources:
+👉 **Explore Other Profiles**: View prompts shared by other users and explore their profiles.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👉 **Copy to Clipboard**: Conveniently copy AI prompts with a simple click.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👉 **Search by Tag**: Find prompts related to specific topics with tag-based search.
+
+👉 **Google Authentication**: Secure and easy login with Google using NextAuth.
+
+👉 **Responsive Design**: Enjoy a seamless experience on any device, from desktops to smartphones.
+
+…and much more, including a focus on code architecture and reusability.
+
+---
+
+Thank you for checking out my project!
+
 
 ## Deploy on Vercel
 
