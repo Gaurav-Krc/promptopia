@@ -27,6 +27,7 @@
   /* config options here */
   experimental: {
     serverComponentsExternalPackages: ['@acme/ui'],
+    missingSuspenseWithCSRBailout: false,
   },
   images: {
     remotePatterns: [
