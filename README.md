@@ -2,6 +2,8 @@
 
 Welcome to my Next.js application! This project showcases the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system using MongoDB and NextAuth authentication.
 
+![App Screenshot](https://github.com/Gaurav-Krc/promptopia/blob/main/Screenshot-promptopia.png)
+
 ## ⚙️ Tech Stack
 - **Next.js**
 - **MongoDB**
